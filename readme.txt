@@ -1,1 +1,2 @@
-This is my first project using Codeigniter Framework
+#Codeigniter Practice
+My first project using codeigniter framework
